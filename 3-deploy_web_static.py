@@ -16,7 +16,7 @@ from fabric.tasks import execute
 from datetime import datetime
 import os
 
-env.hosts = ["3.236.44.83", "44.200.29.105"]
+env.hosts = ["100.25.136.101", "100.26.171.193"]
 env.user = 'ubuntu'
 
 
